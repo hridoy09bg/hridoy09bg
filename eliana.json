@@ -1,0 +1,12 @@
+{
+  "owner_name": "Hridoy Khan",
+  "social_links": {
+    "facebook": "https://facebook.com/hridoy.py",
+    "telegram": "https://t.me/@BD_NOOBRA"
+  },
+  "bot_info": {
+    "bot_name": "Eliana Bot",
+    "version": "1.0.0",
+    "description": "A Telegram bot that does amazing things!"
+  }
+}
