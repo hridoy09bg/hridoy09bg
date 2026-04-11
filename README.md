@@ -3,7 +3,7 @@
 
 If my open-source projects have helped you, consider buying me a cha on Cha Bondhu!
 
-<a href="https://buymeacha.com/your-username" target="_blank" rel="noopener noreferrer">
+<a href="https://buymeacha.com/hridoy" target="_blank" rel="noopener noreferrer">
     <img src="https://s3.buymeacha.com/cdn/assets/buy-me-a-cha-1.png" alt="Cha Bondhu" width="180">
 </a>
 
